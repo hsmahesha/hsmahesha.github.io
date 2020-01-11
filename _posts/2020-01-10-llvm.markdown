@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "LLVM Compiler Infrastructure"
+date:   2020-01-10 11:31:38 +0530
+categories: Compiler
+---
+
+Here you find links to few pages/articles which are related to LLVM compiler.
+
+* LLVM compiler infrastructure
+  * [Basic architectural decision behind LLVM][1]
+  * [An article by initial LLVM authors][2]
+  * [Thesis by initial LLVM authors][4]
+  * [Presentation talk slides by Chris Lattner][3]
+* How to guide
+  * [How to build LLVM from source?][5]
+  * [How to implement a simple programming language using LLVM compiler infrastruture?][6]
+  * [How to get started with hacking LLVM?][7]
+  * [Additional helping guide for LLVM hackers][8]
+* LLVM IR
+  * [LLVM IR reference manual][9]
+* LLVM based tools
+  * [What are some important tools which are built within LLVM infrastructure?][10]
+
+[1]: http://www.aosabook.org/en/llvm.html
+[2]: /files/LLVM/2004-01-30-CGO-LLVM.pdf
+[3]: /files/LLVM/2008-10-04-ACAT-LLVM-Intro.pdf
+[4]: /files/LLVM/2002-12-LattnerMSThesis.pdf
+[5]: https://llvm.org/docs/GettingStarted.html
+[6]: https://llvm.org/docs/tutorial/index.html
+[7]: https://llvm.org/docs/ProgrammersManual.html
+[8]: https://llvm.org/docs/UserGuides.html
+[9]: https://llvm.org/docs/Reference.html
+[10]: https://llvm.org/docs/CommandGuide/index.html
+
