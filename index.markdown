@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Welcome visitor! Thanks for stopping by. Here is something you probably want to chekcout.
+Welcome visitor! Thanks for stopping by. Here you find something related to programming in general. Once-in-a-while, I also write-down some of my random thoughts [here][https://mahesha-shivamallappa.blogspot.com/]
 
