@@ -7,9 +7,32 @@ categories: CPU GPU
 
 Here you find links to few pages which are related hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
 
-* GPUs
+* GPU Hardware
   * [A timeline of AMD's GPU Architectures][1]
   * [List of AMD Graphics Processing Units][2]
+  * [Latest AMD Graphic Cards][3]
+* ROCm
+  * [ROCm: An Open GPU Comuting Platform][4]
+  * [ROCm Software Release Notes][5]
+  * [Github Repos for ROCm Core Technologies][6]
+  * [Github Repos for ROCm Developer Tools and Programing Languages][8]
+  * [Github Repos for ROCm Software Platform][9]
+  * [ROCm Open Ecosystem][10]
+  * [ROCm Documentation][7]
+  * [Talk on AMD GPU Programming using HIP][11]
+  * [Introduction to AMD GPU and HIP Programming][12]
+  * [GCN Hardware Basics][13]
 
 [1]: /files/AMD/amd_graphics_card_timeline.jpg
 [2]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
+[3]: https://www.amd.com/en/graphics/radeon-rx-graphics
+[4]: https://rocm.github.io/
+[5]: https://github.com/RadeonOpenCompute/ROCm
+[6]: https://github.com/RadeonOpenCompute
+[7]: https://github.com/RadeonOpenCompute/ROCm_Documentation
+[8]: https://github.com/ROCm-Developer-Tools
+[9]: https://github.com/ROCmSoftwarePlatform
+[10]: https://www.amd.com/en/graphics/servers-solutions-rocm
+[11]: https://www.youtube.com/watch?v=3ZXbRJVvgJs
+[12]: /files/AMD/INTRODUCTION_TO_AMD_GPU_AND_HIP.pdf
+[13]: /files/AMD/AMD_GPU_GCN_HARDWARE_BASICS.pdf
