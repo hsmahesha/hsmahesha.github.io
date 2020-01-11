@@ -21,6 +21,7 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [LLVM IR reference manual][9]
 * LLVM based tools
   * [What are some important tools which are built within LLVM infrastructure?][10]
+* [LLVM homepage][11]
 
 [1]: http://www.aosabook.org/en/llvm.html
 [2]: /files/LLVM/2004-01-30-CGO-LLVM.pdf
@@ -32,4 +33,5 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [8]: https://llvm.org/docs/UserGuides.html
 [9]: https://llvm.org/docs/Reference.html
 [10]: https://llvm.org/docs/CommandGuide/index.html
+[11]: https://llvm.org/
 
