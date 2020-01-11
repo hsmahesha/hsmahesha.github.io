@@ -22,6 +22,8 @@ Here you find links to few pages which are related hardware (and related softwar
   * [Talk on AMD GPU Programming using HIP][11]
   * [Introduction to AMD GPU and HIP Programming][12]
   * [GCN Hardware Basics][13]
+* LLVM AMDGPU Backend
+  * [User Guide for AMDGPU Backend][14]
 
 [1]: /files/AMD/amd_graphics_card_timeline.jpg
 [2]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
@@ -36,3 +38,4 @@ Here you find links to few pages which are related hardware (and related softwar
 [11]: https://www.youtube.com/watch?v=3ZXbRJVvgJs
 [12]: /files/AMD/INTRODUCTION_TO_AMD_GPU_AND_HIP.pdf
 [13]: /files/AMD/AMD_GPU_GCN_HARDWARE_BASICS.pdf
+[14]: https://llvm.org/docs/AMDGPUUsage.html
