@@ -25,10 +25,7 @@ email: mahesha.shivamallappa@gmail.com
 twitter_username: hs_mahesha
 github_username:  hsmhsm
 linkedin_username: hsmahesha
-links:
-  - title: My Random Thoughts
-    url: https://mahesha-shivamallappa.blogspot.com/
-    external: true
+#
 # Build settings
 theme: minima
 #
