@@ -8,6 +8,8 @@ categories: CPU GPU
 Here you find links to few pages which are related hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
 
 * GPUs
-  * [List of AMD Graphics Processing Units][1]
+  * [A timeline of AMD's GPU Architectures][1]
+  * [List of AMD Graphics Processing Units][2]
 
-[1]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
+[1]: /files/AMD/amd_graphics_card_timeline.jpg
+[2]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
