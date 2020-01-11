@@ -9,5 +9,7 @@ Here you find links to few pages which briefly explain about GPUs, the main arch
 
 * Three main ideas behind modern GPU architecture
   * [Original set of slides][1]
+  * [New set of slides (by me) based on above original set][2]
 
 [1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
+[2]: /files/How_GPUs_Work.pptx
