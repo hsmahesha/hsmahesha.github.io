@@ -5,7 +5,7 @@ date:   2020-01-11 11:31:38 +0530
 categories: GPU
 ---
 
-Here you find links to few pages which briefly explain about GPUs, the main architectural ideas behind GPUs, GPGPU programming models, etc.
+Here you find links to few pages/articles which briefly explain about GPUs, the main architectural ideas behind GPUs, GPGPU programming models, etc.
 
 * Main ideas behind modern GPU architecture
   * [Original set of slides][1]
