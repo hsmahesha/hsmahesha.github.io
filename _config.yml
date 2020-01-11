@@ -22,9 +22,11 @@ title: PROGRAMMERS' FRIEND
 #
 author: Mahesha S
 email: mahesha.shivamallappa@gmail.com
-twitter_username: hs_mahesha
-github_username:  hsmhsm
-[Blogger](https://mahesha-shivamallappa.blogspot.com)
+#
+minima:
+  social_links:
+    github:  hsmhsm
+    twitter: hs_mahesha
 #
 # Build settings
 theme: minima
