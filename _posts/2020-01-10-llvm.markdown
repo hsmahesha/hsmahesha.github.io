@@ -25,6 +25,11 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [LLVM youtube channel][12]
   * [List of all public LLVM mailing-lists][13]
   * [LLVM weekly][14]
+  * [LLVM for Grad Students][15]
+  * [A Tourist's Guide to the LLVM Source Code][16]
+  * [Chris Lattner's Homepage][17]
+  * [LLVM Bugpoint][18]
+  * [LLVM DebugInfo][19]
 * [LLVM homepage][11]
 
 [1]: http://www.aosabook.org/en/llvm.html
@@ -41,3 +46,8 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [12]: https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ/feed
 [13]: http://lists.llvm.org/mailman/listinfo
 [14]: http://llvmweekly.org/
+[15]: https://www.cs.cornell.edu/~asampson/blog/llvm.html
+[16]: https://blog.regehr.org/archives/1453
+[17]: http://www.nondot.org/sabre/
+[18]: http://logan.tw/posts/2014/11/26/llvm-bugpoint/
+[19]: https://wiki.aalto.fi/display/t1065450/LLVM+DebugInfo
