@@ -7,5 +7,5 @@ categories: VIM
 
 [VIM Command Guide][1]
 
-[1]: /files/VIM/vim-commands.markdown
+[1]: https://github.com/hsmhsm/Random/blob/master/Vim-Commands/vim-commands.adoc
 
