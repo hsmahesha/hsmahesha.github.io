@@ -7,6 +7,6 @@ categories: GPU
 
 Here you find links to few pages which briefly explain about GPUs, the main architectural ideas behind GPUs, GPGPU programming models, etc.
 
-* [link][1]
+* [Three Main Ideas Behind Modern GPU Architecture][1]
 
-[1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf "How GPus Work?"
+[1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
