@@ -7,14 +7,23 @@ categories: GPU
 
 Here you find links to few pages which briefly explain about GPUs, the main architectural ideas behind GPUs, GPGPU programming models, etc.
 
-* Three main ideas behind modern GPU architecture
+* Main ideas behind modern GPU architecture
   * [Original set of slides][1]
   * [New set of slides *prepared by me* based on above original set][2]
+  * [GPU architecture a CPU perspective][7]
 * CUDA architecture
   * [Set of slides *prepared by me* long ago][3]
   * [Set of slides by Nvidia folks][4]
+* Research Articles
+  * [Throughput oriented architectures][5]
+  * [Multithreaded processors][6]
+  * [An open source implementation of GPU][8]
 
 [1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
 [2]: /files/GPU/How_GPUs_Work.pptx
 [3]: /files/GPU/GPGPU_Computing_Using_CUDA.pptx
 [4]: /files/GPU/Modern_GPU_Architecture_Nvidia.pdf
+[5]: /files/GPU/Throughput-Oriented-Architectures.pdf
+[6]: /files/GPU/Multithreaded_Processors.pdf
+[7]: /files/GPU/GPU_Architectures_A_CPU_Perspective.pdf
+[8]: /files/GPU/MIAOW-TACO-GPGPU.pdf
