@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Advanced Micro Devices (AMD) Inc"
+date:   2020-01-09 11:31:38 +0530
+categories: CPU GPU
+---
+
+Here you find links to few pages which are related hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
+
+* GPUs
+  * [List of AMD Graphics Processing Units][1]
+
+[1]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
