@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hello World
+Welcome visitor! Thanks for stopping by. Here is something you
+probably want to chekcout.
+
