@@ -7,5 +7,5 @@ categories: VIM
 
 [VIM Command Guide][1]
 
-[1]: vim-commands.adoc
+[1]: /files/VIM/vim-commands.markdown
 
