@@ -22,11 +22,8 @@ title: PROGRAMMERS' FRIEND
 #
 author: Mahesha S
 email: mahesha.shivamallappa@gmail.com
-#
-minima:
-  social_links:
-    github:  hsmhsm
-    twitter: hs_mahesha
+twitter_username: hs_mahesha
+github_username:  hsmhsm
 #
 # Build settings
 theme: minima
