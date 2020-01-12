@@ -27,10 +27,9 @@ twitter_username: hsmahesha
 linkedin_username: hsmahesha
 #
 # Build settings
-theme: mmistakes/minimal-mistakes@4.17.2
+theme: minima
 #
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-include-cache
