@@ -20,8 +20,6 @@ Here you find links to few pages which are related to hardware (and related soft
   * [ROCm Open Ecosystem][10]
   * [ROCm Documentation][7]
   * [Talk on AMD GPU Programming using HIP][11]
-  * [Introduction to AMD GPU and HIP Programming][12]
-  * [GCN Hardware Basics][13]
   * [GPUOpen][15]
 * LLVM AMDGPU Backend
   * [User Guide for AMDGPU Backend][14]
@@ -37,7 +35,5 @@ Here you find links to few pages which are related to hardware (and related soft
 [9]: https://github.com/ROCmSoftwarePlatform
 [10]: https://www.amd.com/en/graphics/servers-solutions-rocm
 [11]: https://www.youtube.com/watch?v=3ZXbRJVvgJs
-[12]: /files/AMD/INTRODUCTION_TO_AMD_GPU_AND_HIP.pdf
-[13]: /files/AMD/AMD_GPU_GCN_HARDWARE_BASICS.pdf
 [14]: https://llvm.org/docs/AMDGPUUsage.html
 [15]: https://gpuopen.com/
