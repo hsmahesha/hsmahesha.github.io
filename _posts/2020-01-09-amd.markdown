@@ -5,7 +5,7 @@ date:   2020-01-09 11:31:38 +0530
 categories: CPU GPU
 ---
 
-Here you find links to few pages which are related hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
+Here you find links to few pages which are related to hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
 
 * GPU Hardware
   * [A timeline of AMD's GPU Architectures][1]
