@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Welcome visitor! Thanks for stopping by. Here you find something related to programming in general. Once-in-a-while, I also write-down some of my random thoughts [here][1]
+Welcome visitor! Thanks for stopping by. Here you find something related to programming in general. Once-in-a-while, I also write-down some of my random thoughts [here][1].
 
 [1]: https://mahesha-shivamallappa.blogspot.com/
