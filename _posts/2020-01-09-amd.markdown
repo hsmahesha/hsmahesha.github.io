@@ -8,7 +8,7 @@ categories: CPU GPU
 Here you find links to few pages which are related to hardware (and related software) being manufactured by Advanced Micro Devices (AMD) Inc.
 
 * GPU Hardware
-  * [A timeline of AMD's GPU Architectures][1]
+  * [A Timeline of AMD's GPU Architectures][1]
   * [List of AMD Graphics Processing Units][2]
   * [Latest AMD Graphic Cards][3]
 * ROCm
