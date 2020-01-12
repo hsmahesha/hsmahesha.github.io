@@ -6,8 +6,10 @@ categories: VIM
 ---
 
 * [Eli Bendersky's Homepage][1]
-* [Chris Lattner's Homepage][2]
+* [Matt Pharr's Homepage][2]
+* [Chris Lattner's Homepage][3]
 
 [1]: https://eli.thegreenplace.net/pages/about
-[2]: http://www.nondot.org/sabre/
+[2]: https://pharr.org/matt/
+[3]: http://www.nondot.org/sabre/
 
