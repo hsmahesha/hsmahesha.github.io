@@ -12,6 +12,7 @@ Here you find links to few pages which are related to hardware (and related soft
   * [List of AMD Graphics Processing Units][2]
   * [Latest AMD Graphic Cards][3]
   * [Vega ISA Manual][14]
+  * [The AMD GCN Architecture - A Crash Course][15]
 * ROCm
   * [ROCm: An Open GPU Comuting Platform][4]
   * [ROCm Software Release Notes][5]
@@ -39,3 +40,4 @@ Here you find links to few pages which are related to hardware (and related soft
 [12]: https://llvm.org/docs/AMDGPUUsage.html
 [13]: https://gpuopen.com/
 [14]: /files/AMD/Vega_Shader_ISA_28July2017.pdf
+[15]: https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah
