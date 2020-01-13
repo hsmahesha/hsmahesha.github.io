@@ -14,10 +14,12 @@ Here you find links to few pages/articles which briefly explain about GPUs, the 
 * CUDA architecture
   * [Set of slides *prepared by me* long ago][3]
   * [Set of slides by Nvidia folks][4]
-* Research Articles
+* Papers/Articles/PPTs
   * [Throughput oriented architectures][5]
   * [Multithreaded processors][6]
   * [An open source implementation of GPU][8]
+* GPU Computing Researchers
+  * [Kayvon Fatahalian][9]
 
 [1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
 [2]: /files/GPU/How_GPUs_Work.pptx
@@ -27,3 +29,4 @@ Here you find links to few pages/articles which briefly explain about GPUs, the 
 [6]: /files/GPU/Multithreaded_Processors.pdf
 [7]: /files/GPU/GPU_Architectures_A_CPU_Perspective.pdf
 [8]: /files/GPU/MIAOW-TACO-GPGPU.pdf
+[9]: http://graphics.stanford.edu/~kayvonf/
