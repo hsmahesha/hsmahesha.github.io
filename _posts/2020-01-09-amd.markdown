@@ -11,6 +11,7 @@ Here you find links to few pages which are related to hardware (and related soft
   * [A Timeline of AMD's GPU Architectures][1]
   * [List of AMD Graphics Processing Units][2]
   * [Latest AMD Graphic Cards][3]
+  * [Vega ISA Manual][14]
 * ROCm
   * [ROCm: An Open GPU Comuting Platform][4]
   * [ROCm Software Release Notes][5]
@@ -20,9 +21,9 @@ Here you find links to few pages which are related to hardware (and related soft
   * [ROCm Open Ecosystem][10]
   * [ROCm Documentation][7]
   * [Talk on AMD GPU Programming using HIP][11]
-  * [GPUOpen][15]
+  * [GPUOpen][13]
 * LLVM AMDGPU Backend
-  * [User Guide for AMDGPU Backend][14]
+  * [User Guide for AMDGPU Backend][12]
 
 [1]: /files/AMD/amd_graphics_card_timeline.jpg
 [2]: https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units
@@ -35,5 +36,6 @@ Here you find links to few pages which are related to hardware (and related soft
 [9]: https://github.com/ROCmSoftwarePlatform
 [10]: https://www.amd.com/en/graphics/servers-solutions-rocm
 [11]: https://www.youtube.com/watch?v=3ZXbRJVvgJs
-[14]: https://llvm.org/docs/AMDGPUUsage.html
-[15]: https://gpuopen.com/
+[12]: https://llvm.org/docs/AMDGPUUsage.html
+[13]: https://gpuopen.com/
+[14]: /files/AMD/Vega_Shader_ISA_28July2017.pdf
