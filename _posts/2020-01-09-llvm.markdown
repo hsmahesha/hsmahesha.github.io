@@ -31,6 +31,8 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [LLVM Bugpoint][18]
   * [LLVM DebugInfo][19]
 * [LLVM homepage][11]
+* LLVM Backend
+  * [How to register a new toy backend to LLVM?][20]
 
 [1]: http://www.aosabook.org/en/llvm.html
 [2]: /files/LLVM/2004-01-30-CGO-LLVM.pdf
@@ -51,3 +53,4 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [17]: http://www.nondot.org/sabre/
 [18]: http://logan.tw/posts/2014/11/26/llvm-bugpoint/
 [19]: https://wiki.aalto.fi/display/t1065450/LLVM+DebugInfo
+[20]: https://github.com/llvm/llvm-project/pull/94
