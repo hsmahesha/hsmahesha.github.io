@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic VIM Commands"
-date:   2020-01-11 17:31:38 +0530
+date:   2020-01-10 17:31:38 +0530
 categories: VIM
 ---
 

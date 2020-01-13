@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Architecture"
-date:   2020-01-13 11:31:38 +0530
+date:   2020-01-08 11:31:38 +0530
 categories: CPU
 ---
 
