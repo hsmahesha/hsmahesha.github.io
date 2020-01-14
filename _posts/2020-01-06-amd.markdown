@@ -20,7 +20,9 @@ Here you find links to few pages which are related to hardware (and related soft
   * [Github Repos for ROCm Developer Tools and Programing Languages][8]
   * [Github Repos for ROCm Software Platform][9]
   * [ROCm Open Ecosystem][10]
-  * [ROCm Documentation][7]
+  * [ROCm Documentation - Github][7]
+  * [ROCm Documentation - Readthedocs][16]
+  * [HIP Kernel Language - Quick Reference][17]
   * [Talk on AMD GPU Programming using HIP][11]
   * [GPUOpen][13]
 * LLVM AMDGPU Backend
@@ -41,3 +43,5 @@ Here you find links to few pages which are related to hardware (and related soft
 [13]: https://gpuopen.com/
 [14]: /files/AMD/Vega_Shader_ISA_28July2017.pdf
 [15]: https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah
+[16]: https://rocm-documentation.readthedocs.io/en/latest/index.html
+[17]: https://rocm-documentation.readthedocs.io/en/latest/Programming_Guides/Kernel_language.html#kernel-language
