@@ -11,7 +11,10 @@ Here you find links to few pages/articles/books/etc which are related to the top
   * [Memory Consistency Models: Brief Overview][1]
   * [Memory Consistency Models: Another Brief Overview][2]
   * [Memory Consistency Models: Detailed Overview][3]
+* Talks
+  * [Memory Hierarchies in the Era of Specialization][4]
 
 [1]: https://www.cs.utexas.edu/~bornholt/post/memory-models.html
 [2]: https://www.cse.iitk.ac.in/users/biswap/CASS18/consistency-model.pdf
-[3]: /files/MEMORY-MODELS/WRL-95-7.pdf 
+[3]: /files/MEMORY-MODELS/WRL-95-7.pdf
+[4]: https://www.youtube.com/watch?reload=9&v=kjFjL_vTUWU
