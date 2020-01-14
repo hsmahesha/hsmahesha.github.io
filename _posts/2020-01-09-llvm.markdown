@@ -17,6 +17,7 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [How to implement a simple programming language using LLVM compiler infrastruture?][6]
   * [How to get started with hacking LLVM?][7]
   * [Additional helping guide for LLVM hackers][8]
+  * [How to contribute to LLVM][21]
 * LLVM IR
   * [LLVM IR reference manual][9]
 * LLVM based tools
@@ -54,3 +55,4 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [18]: http://logan.tw/posts/2014/11/26/llvm-bugpoint/
 [19]: https://wiki.aalto.fi/display/t1065450/LLVM+DebugInfo
 [20]: https://github.com/llvm/llvm-project/pull/94
+[21]: https://llvm.org/docs/GettingInvolved.html
