@@ -20,6 +20,7 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [How to contribute to LLVM?][21]
 * LLVM IR
   * [LLVM IR reference manual][9]
+  * [Nice introductory talk on LLVM IR][23]
 * LLVM Based Tools
   * [What are some important tools which are built within LLVM infrastructure?][10]
 * Other LLVM Resources
@@ -59,3 +60,4 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [20]: https://github.com/llvm/llvm-project/pull/94
 [21]: https://llvm.org/docs/GettingInvolved.html
 [22]: https://www.youtube.com/watch?v=d6dF6E4BPeU
+[23]: https://www.youtube.com/watch?v=m8G_S5LwlTo
