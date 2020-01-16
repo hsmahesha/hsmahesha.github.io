@@ -32,6 +32,7 @@ Here you find links to few pages/articles which are related to LLVM compiler.
     * [Language Reference Manual][26]
     * [Tutorial by Nicolai][27]
     * [Nicolai's Blog on TableGen][28]
+    * [TableGen - Deep Dive][29]
   * GlobalISel
     * [Nice high level introductory talk][22]
 * Other LLVM Resources
@@ -72,3 +73,4 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [26]: https://llvm.org/docs/TableGen/LangRef.html
 [27]: https://www.youtube.com/watch?v=45gmF77JFBY
 [28]: http://nhaehnle.blogspot.com/2018/02/tablegen-1-what-has-tablegen-ever-done.html
+[29]: /files/LLVM/tablegen-deepdive.pdf
