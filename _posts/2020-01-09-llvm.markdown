@@ -26,6 +26,12 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [What are some important tools which are built within LLVM infrastructure?][10]
 * LLVM Backend
   * [How to register a new toy backend to LLVM?][20]
+  * TableGen
+    * [Introduction][24]
+    * [Language Contructs][25]
+    * [Language Reference Manual][26]
+    * [Tutorial by Nicolai][27]
+    * [Nicolai's Blog on TableGen][28]
   * GlobalISel
     * [Nice high level introductory talk][22]
 * Other LLVM Resources
@@ -61,3 +67,8 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [21]: https://llvm.org/docs/GettingInvolved.html
 [22]: https://www.youtube.com/watch?v=d6dF6E4BPeU
 [23]: https://www.youtube.com/watch?v=m8G_S5LwlTo
+[24]: https://llvm.org/docs/TableGen/
+[25]: https://llvm.org/docs/TableGen/LangIntro.html
+[26]: https://llvm.org/docs/TableGen/LangRef.html
+[27]: https://www.youtube.com/watch?v=45gmF77JFBY
+[28]: http://nhaehnle.blogspot.com/2018/02/tablegen-1-what-has-tablegen-ever-done.html
