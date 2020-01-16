@@ -2,15 +2,17 @@
 layout: post
 title:  "Programming Productivity Tools"
 date:   2020-01-10 17:31:38 +0530
-categories: VIM
+categories: VIM, CTAG
 ---
 
 Here you find links to paper/article/talk/book/etc which related to programming productivity tools.
 
 * VIM
-  * [VIM Command Guide Edited by Me][1]
+  * [VIM command guide edited by me][1]
+  * [Explore files within VIM][3]
 * CTAG
   * [Navigate code like a pro with Ctags][2]
 
 [1]: https://github.com/hsmhsm/Random/blob/master/Vim-Commands/vim-commands.adoc
 [2]: https://ricostacruz.com/til/navigate-code-with-ctags
+[3]: https://shapeshed.com/vim-netrw/
