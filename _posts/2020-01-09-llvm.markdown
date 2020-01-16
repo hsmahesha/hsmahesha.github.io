@@ -36,6 +36,10 @@ Here you find links to few pages/articles which are related to LLVM compiler.
     * [TableGen - Deep Dive][29]
   * GlobalISel
     * [Nice high level introductory talk][22]
+    * [Initial proposal][32]
+    * [GlobalISel: Past, Present, and Future (As of Oct-2017)][33]
+    * [Head First into GlobalISel][34]
+    * [Generating Optimized Code with GlobalISel][35]
 * [Past LLVM Developers' Meetings][31]
 * Other LLVM Resources
   * [LLVM youtube channel][12]
@@ -78,3 +82,7 @@ Here you find links to few pages/articles which are related to LLVM compiler.
 [29]: /files/LLVM/tablegen-deepdive.pdf
 [30]: https://llvm.org/docs/TableGen/BackEnds.html
 [31]: https://llvm.org/devmtg/
+[32]: https://www.youtube.com/watch?v=F6GGbYtae3g&index=2&list=PL_R5A0lGi1AA4Lv2bBFSwhgDaHvvpVU21
+[33]: https://www.youtube.com/watch?v=McByO0QgqCY&feature=youtu.be
+[34]: https://www.youtube.com/watch?v=Zh4R40ZyJ2k
+[35]: https://www.youtube.com/watch?v=8427bl_7k1g
