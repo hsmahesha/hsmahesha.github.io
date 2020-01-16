@@ -7,6 +7,7 @@ categories: Compiler
 
 Here you find links to few pages/articles which are related to LLVM compiler.
 
+* [LLVM homepage][11]
 * LLVM Compiler Infrastructure
   * [Basic architectural decision behind LLVM][1]
   * [An article by initial LLVM authors][2]
@@ -23,6 +24,10 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [Nice introductory video tutorial on LLVM IR][23]
 * LLVM Based Tools
   * [What are some important tools which are built within LLVM infrastructure?][10]
+* LLVM Backend
+  * [How to register a new toy backend to LLVM?][20]
+* GlobalISel
+  * [Nice high level introductory talk][22]
 * Other LLVM Resources
   * [LLVM youtube channel][12]
   * [List of all public LLVM mailing-lists][13]
@@ -32,11 +37,6 @@ Here you find links to few pages/articles which are related to LLVM compiler.
   * [Chris Lattner's Homepage][17]
   * [LLVM Bugpoint][18]
   * [LLVM DebugInfo][19]
-* [LLVM homepage][11]
-* LLVM Backend
-  * [How to register a new toy backend to LLVM?][20]
-* GlobalISel
-  * [Nice high level introductory talk][22]
 
 [1]: http://www.aosabook.org/en/llvm.html
 [2]: /files/LLVM/2004-01-30-CGO-LLVM.pdf
