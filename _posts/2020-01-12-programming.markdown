@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fundamentals of Programming A Computer"
+title:  "Fundamentals of Programming"
 date:   2020-01-12 11:31:38 +0530
 categories: Programming
 ---
