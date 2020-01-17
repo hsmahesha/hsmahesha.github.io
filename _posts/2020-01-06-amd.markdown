@@ -25,6 +25,10 @@ Here you find links to few pages which are related to hardware (and related soft
   * [HIP Kernel Language - Quick Reference][17]
   * [Talk on AMD GPU Programming using HIP][11]
   * [GPUOpen][13]
+* Public ROCm Dockers
+  * [TensorFlow on HIP/HCC][18]
+  * [PyTorch on HIP/HCC][19]
+  * [Others on HIP/HCC][20]
 * LLVM AMDGPU Backend
   * [User Guide for AMDGPU Backend][12]
 
@@ -45,3 +49,6 @@ Here you find links to few pages which are related to hardware (and related soft
 [15]: https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah
 [16]: https://rocm-documentation.readthedocs.io/en/latest/index.html
 [17]: https://rocm-documentation.readthedocs.io/en/latest/Programming_Guides/Kernel_language.html#kernel-language
+[18]: https://hub.docker.com/r/rocm/tensorflow
+[19]: https://hub.docker.com/r/rocm/pytorch
+[20]: https://hub.docker.com/u/rocm
