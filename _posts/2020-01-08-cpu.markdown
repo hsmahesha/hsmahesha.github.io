@@ -5,7 +5,7 @@ date:   2020-01-08 11:31:38 +0530
 categories: CPU
 ---
 
-Here you find links to few pages/articles/talks/courses which are related to Computer Architecture.
+Here you find links to few pages/articles/talks/courses/etc which are related to Computer Architecture.
 
 * University Courses
   * [Computer Architecture - Fall 2013 - CMU][1]

@@ -5,7 +5,7 @@ date:   2020-01-09 11:31:38 +0530
 categories: Compiler
 ---
 
-Here you find links to few pages/articles which are related to LLVM compiler.
+Here you find links to few pages/articles/books/etc which are related to LLVM compiler.
 
 * [LLVM homepage][11]
 * LLVM Compiler Infrastructure

@@ -10,9 +10,27 @@ Here you find links to paper/article/talk/book/etc which related to programming 
 * VIM
   * [VIM command guide edited by me][1]
   * [Explore files within VIM][3]
-* CTAG
+  * [VIM Cheatsheet][5]
+* CTAG within VIM
   * [Navigate code like a pro with Ctags][2]
+  * [VIM and CTags][9]
+  * [Code Spelunking with Ctags and Vim][10]
+  * [Browsing Programs with Tags][11]
+* TMUX
+  * [Tmux Cheatsheet][4]
+* CSCOPE
+  * [Homepage][6]
+  * [CScope VIM Tutorial][7]
+  * [Using CScope on Large Projects][8]
 
 [1]: https://github.com/hsmhsm/Random/blob/master/Vim-Commands/vim-commands.adoc
 [2]: https://ricostacruz.com/til/navigate-code-with-ctags
 [3]: https://shapeshed.com/vim-netrw/
+[4]: https://gist.github.com/MohamedAlaa/2961058
+[5]: https://gist.github.com/azadkuh/5d223d46a8c269dadfe4
+[6]: http://cscope.sourceforge.net/
+[7]: http://cscope.sourceforge.net/cscope_vim_tutorial.html
+[8]: http://cscope.sourceforge.net/large_projects.html
+[9]: https://andrew.stwrt.ca/posts/vim-ctags/
+[10]: https://scholarslab.lib.virginia.edu/blog/code-spelunking-with-ctags-and-vim/
+[11]: https://vim.fandom.com/wiki/Browsing_programs_with_tags

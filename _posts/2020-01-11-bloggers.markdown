@@ -2,7 +2,7 @@
 layout: post
 title:  "Few Other Bloggers Who I Follow"
 date:   2020-01-11 20:31:38 +0530
-categories: VIM
+categories:
 ---
 
 * [Eli Bendersky's Homepage][1]
