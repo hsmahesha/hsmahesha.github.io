@@ -40,6 +40,7 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
     * [GlobalISel: Past, Present, and Future (As of Oct-2017)][33]
     * [Head First into GlobalISel][34]
     * [Generating Optimized Code with GlobalISel][35]
+    * [LLVM GlobelISeL Documentation][36]
 * [Past LLVM Developers' Meetings][31]
 * Other LLVM Resources
   * [LLVM youtube channel][12]
@@ -86,3 +87,4 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
 [33]: https://www.youtube.com/watch?v=McByO0QgqCY&feature=youtu.be
 [34]: https://www.youtube.com/watch?v=Zh4R40ZyJ2k
 [35]: https://www.youtube.com/watch?v=8427bl_7k1g
+[36]: https://llvm.org/docs/GlobalISel/index.html
