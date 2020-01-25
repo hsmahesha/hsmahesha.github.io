@@ -9,5 +9,7 @@ Here you find links to few pages/articles/books/etc which are related to compile
 
 * Online Compiler Explorer
   * [godbolt][1]
+* [Awesome-compilers][2]
 
 [1]: https://godbolt.org
+[2]: https://github.com/aalhour/awesome-compilers
