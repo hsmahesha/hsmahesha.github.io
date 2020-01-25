@@ -9,5 +9,7 @@ Here you find links to few pages/articles/books/etc which are related to **progr
 
 * Books
   * [Computer Systems: A Programmer's Perspective 3rd Edition][1]
+  * [Elements of Programming][2]
 
 [1]: https://www.pearson.com/us/higher-education/product/Bryant-Computer-Systems-A-Programmer-s-Perspective-3rd-Edition/9780134092669.html
+[2]: /files/PROGRAMMING/eof.pdf
