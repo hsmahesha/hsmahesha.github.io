@@ -45,7 +45,7 @@ Here you find links to few pages which are related to hardware (and related soft
 [11]: https://www.youtube.com/watch?v=3ZXbRJVvgJs
 [12]: https://llvm.org/docs/AMDGPUUsage.html
 [13]: https://gpuopen.com/
-[14]: /files/Vega_7nm_Shader_ISA_26November2019.pdf
+[14]: /files/AMD/Vega_7nm_Shader_ISA_26November2019.pdf
 [15]: https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah
 [16]: https://rocm-documentation.readthedocs.io/en/latest/index.html
 [17]: https://rocm-documentation.readthedocs.io/en/latest/Programming_Guides/Kernel_language.html#kernel-language
