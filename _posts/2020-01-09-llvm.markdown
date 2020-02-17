@@ -13,17 +13,17 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
   * [An article by initial LLVM authors][2]
   * [Thesis by initial LLVM authors][4]
   * [Presentation talk slides by Chris Lattner][3]
+* LLVM IR
+  * [LLVM IR reference manual][9]
+  * [Nice introductory video tutorial on LLVM IR][23]
+* LLVM Based Tools
+  * [What are some important tools which are built within LLVM infrastructure?][10]
 * How To Guide
   * [How to build LLVM from source?][5]
   * [How to implement a simple programming language using LLVM compiler infrastruture?][6]
   * [How to get started with hacking LLVM?][7]
   * [Additional helping guide for LLVM hackers][8]
   * [How to contribute to LLVM?][21]
-* LLVM IR
-  * [LLVM IR reference manual][9]
-  * [Nice introductory video tutorial on LLVM IR][23]
-* LLVM Based Tools
-  * [What are some important tools which are built within LLVM infrastructure?][10]
 * LLVM Backend
   * [How to register a new toy backend to LLVM?][20]
   * TableGen
