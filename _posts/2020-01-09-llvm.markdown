@@ -34,6 +34,7 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
     * [Tutorial by Nicolai][27]
     * [Nicolai's Blog on TableGen][28]
     * [TableGen - Deep Dive][29]
+  * SelectionDAG
   * GlobalISel
     * [Nice high level introductory talk][22]
     * [Initial proposal][32]
