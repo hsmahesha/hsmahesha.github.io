@@ -37,7 +37,8 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
   * SelectionDAG
   * GlobalISel
     * [Nice high level introductory talk][22]
-    * [Initial proposal][32]
+    * [Initial proposal, 2015][32]
+    * [Status update, 2016][37]
     * [GlobalISel: Past, Present, and Future (As of Oct-2017)][33]
     * [Head First into GlobalISel][34]
     * [Generating Optimized Code with GlobalISel][35]
@@ -89,3 +90,4 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
 [34]: https://www.youtube.com/watch?v=Zh4R40ZyJ2k
 [35]: https://www.youtube.com/watch?v=8427bl_7k1g
 [36]: https://llvm.org/docs/GlobalISel/index.html
+[37]: https://www.youtube.com/watch?v=6tfb344A7w8
