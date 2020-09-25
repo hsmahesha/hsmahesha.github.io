@@ -30,9 +30,9 @@ which represent registers. When some changes happen, say, to registers
 representation, then we need to update all their representative classes and also
 the instructions related classes which relate to changed registers.
 
-All in all, supporting XYZ back-end within LLVM infrastructure results in a
-complex piece of software to develop and painful task to maintain it. What if,
-there exist some kind of tool which automate above mentioned mundane tasks,
+All in all, supporting XYZ target back-end within LLVM infrastructure results in
+a complex piece of software and never ending painful task to maintain it. What
+if, there exist some kind of tool which automate above mentioned mundane tasks,
 which greatly simplifies the process of supporting new XYZ target machine within
 LLVM infrastructure and reduces the pain of maintaining it over the time. It is
 really nice to have such a tool, right? Simply speaking, *LLVM TableGen* is such
