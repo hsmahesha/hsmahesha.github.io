@@ -36,4 +36,11 @@ there exist some kind of tool which automate above mentioned mundane tasks,
 which greatly simplifies the process of supporting new XYZ target machine within
 LLVM infrastructure and reduces the pain of maintaining it over the time. It is
 really nice to have such a tool, right? Simply speaking, *LLVM TableGen* is such
-a tool.
+a (partial) automation tool.
+
+LLVM TableGen tool is generic enough in the sense that, it can also be used to
+(partially) automate other compiler tasks such as abstract syntax tree (AST)
+representation within Clang, error diagnostic implementation within Clang, etc
+apart from using it to (partially) automate target machine implementation within
+LLVM.
+
