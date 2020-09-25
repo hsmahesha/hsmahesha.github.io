@@ -92,4 +92,4 @@ Here you find links to few pages/articles/books/etc which are related to LLVM co
 [35]: https://www.youtube.com/watch?v=8427bl_7k1g
 [36]: https://llvm.org/docs/GlobalISel/index.html
 [37]: https://www.youtube.com/watch?v=6tfb344A7w8
-[38]: /files/LLVM/tbl-gen.txt
+[38]: /files/LLVM/tbl-gen.markdown

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "LLVM TableGen Tool"
+date:   2020-09-25 11:31:38 +0530
+categories: Compiler
+---
+
+* Introduction
+
+Let's say, we are registering a new target machine, named - XYZ, within LLVM
+infrastructure. Naturally, we need to programmatically represent the XYZ machine
+instruction set within LLVM. Let's assume, XYZ supports several hundreds of
+different machine instructions. We need to define each one of these several
+hundred instructions. One way to achieve this is to create a separate C++ class
+definition for each of the supported instruction, which means, programmer has to
+*manually* code all these hundreds of classes, which is literally a laborious
+and boring task. And what's more, several of these machine instructions share
+some common features, which we either need to manually abstract away into some
+common base class(es) or we need to repeat these common features in all the
+classes which represent those instructions which share those common features.
+
+The XYZ's machine instruction set tells only the part of the story about the XYZ
+target machine. There are other key features of the XYZ machine, like register
+file, addressing modes, etc which also need to be programmatically represented
+within LLVM. Further, since instructions use registers as their operand fields,
+we need to establish some kind of relationship between the classes which
+represent instructions, and the classes which represent registers. When some
+changes happen, say, to registers representation, then we need to update all
+their representative classes and also the instructions related classes which
+relate to changed registers.
+
+All in all, supporting XYZ back-end within LLVM infrastructure results in a
+complex piece of software to develop and painful task to maintain it. What if,
+there exist some kind of tool which automate above mentioned mundane tasks,
+which greatly simplifies the process of supporting new XYZ target machine within
+LLVM infrastructure and reduces the pain of maintaining it over the time. It is
+really nice to have such tool, right? Simply speaking, LLVM TableGen is such a
+tool.
