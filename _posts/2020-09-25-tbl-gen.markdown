@@ -17,7 +17,7 @@ means, programmer has to *manually* code all these hundreds of classes, which is
 literally a laborious and boring task. And what's more, several of these machine
 instructions share some common features, which we either need to manually
 abstract away into some common base class(es) or we need to repeat these common
-features in all the classes epresenting those instructions which share common
+features in all the classes representing those instructions which share common
 features.
 
 The XYZ's machine instruction set tells only the part of the story about the XYZ
@@ -44,3 +44,6 @@ representation within Clang, error diagnostic implementation within Clang, etc
 apart from using it to (partially) automate target machine implementation within
 LLVM.
 
+Ok, good to know about such an useful role that TableGen tool is playing within
+LLVM infrastructure projects, but, how does it actually work?, how does it
+actually automate the stuffs that we discussed above? Let's read-on.
