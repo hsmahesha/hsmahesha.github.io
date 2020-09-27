@@ -13,7 +13,7 @@ instruction set within LLVM. Let's assume, XYZ supports several hundreds of
 different machine instructions. We need to programmatically represent each one
 of these several hundred instructions. One way to achieve this is to create a
 separate C++ class definition for each of the supported instruction, which
-means, programmer has to *manually* code all these hundreds of classes, which is
+means, programmer has to `manually` code all these hundreds of classes, which is
 literally a laborious and boring task. And what's more, several of these machine
 instructions share some common features, which we either need to manually
 abstract away into some common base class(es) or we need to repeat these common
@@ -35,7 +35,7 @@ a complex piece of software and never ending painful task to maintain it. What
 if, there exist some kind of tool which automate above mentioned mundane tasks,
 which greatly simplifies the process of supporting new XYZ target machine within
 LLVM infrastructure and reduces the pain of maintaining it over the time. It is
-really nice to have such a tool, right? Simply speaking, *LLVM TableGen* is such
+really nice to have such a tool, right? Simply speaking, `LLVM TableGen` is such
 a (partial) automation tool.
 
 LLVM TableGen tool is generic enough in the sense that, it can also be used to
@@ -46,4 +46,37 @@ LLVM.
 
 Ok, good to know about such an useful role that TableGen tool is playing within
 LLVM infrastructure projects, but, how does it actually work?, how does it
-actually automate the stuffs that we discussed above? Let's read-on.
+actually fullfil its role of automating the stuffs that we discussed above?
+Let's read-on.
+
+# Concepts
+
+If we look into the history of programming, we find that one general way of
+automating some manual, repetitive, boring programming stuff is via what we call
+`Domain Specific Languages` or `DSL` for short. LLVM TableGen is no different, but
+one such DSL. Being a DSL, LLVM TableGen has its own language constructs, like a 
+set of lexical tokens, a set of syntactic statements, set of syntactic grammer
+rules which formally describe the language, etc. Again, being a DSL, these
+language constructs are designed from the perspective of it specified role of
+automating some of the programming stuffs within LLVM infrastructure which we
+touched upon in the previous section.
+
+The main idea of LLVM TableGen is as follows:
+
+* Expose few key language constructs which allows LLVM hackers to easly and
+  succinctly describe the programming task at hand, for example, the descriotion
+  of target machine instruction set. This description will be captured in what we
+  call a TableGen source file whose name is being suffixed with the extension
+  `.td`, say, `XYZ.td`.
+* Then, pass this TableGen source file to TableGen compiler front-end which will
+  parse the file, and generate an expanded TableGen file as output (we will
+  describe details of this output file later, but, for now let's assume that it is
+  an exapanded version of input TableGen source file).
+* Then, there can exist several TableGen compiler back-ends which will take
+  above front-end produced expanded TableGen file as their input, filter out its
+  content as per their need, provide meaning to the expanded contents in the file,
+  and generate specific set C++ files as output. These C++ files are suffixed with
+  the extension `.inc`.
+* Finally, we can combine above TableGen`erated C++ files within LLVM
+  infrastructure and use them as regular C++ source files as if we were handed
+  coded them .
