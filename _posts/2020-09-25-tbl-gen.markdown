@@ -95,24 +95,28 @@ this end, TableGen provides one of the key constructs, called `class`, it is als
 called an `abstract record`. For example, we can hypothetically describe a binary
 instruction as below.
 
+```cpp
 class BinaryInst {
   // define attr_1; 
   // define attr_2;
   ................
   // define attr_k;
 }
+```
 
 Once an abstract record is defined as above using a `class` construct, then we can
 define specific binary instruction using an another construct called `def`
 construct, which is also called a `concrete record`. For example, we can define
 an hypothetical binary instruction `add` as below.
 
+```cpp
 def Add : BinaryInst {
   // define add_specific_attr_1; 
   // define add_specific_attr_2;
   .............................
   // define add_specific_attr_m;
 }
+```
 
 Here, the concrete record `Add` inherits the abstract record `BinaryInst` so that
 all the attributes of `BinaryInst` also become attributes of `Add`. Similarly, we
