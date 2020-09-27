@@ -87,9 +87,9 @@ Ok, good to know, but, how does the TableGen language constructs help programmer
 to `easly and succinctly` describe the programming task at hand, say, for example,
 description of a target machine instruction set? Good question, let's discuss it.
 
-Generally speaking, when we want to programmatically represent an instuction of
+Generally speaking, when we want to programmatically represent an instruction of
 a target machine instruction set, we need to capture certain attributes of that
-instructions, like opecode, operand registers, predicates to name few. These
+instruction, like opecode, operand registers, predicates to name few. These
 attributes can be captured in a `record` format (just like a database record). To
 this end, TableGen provides one of the key constructs, called `class`, it is also
 called an `abstract record`. For example, we can hypothetically describe a binary
