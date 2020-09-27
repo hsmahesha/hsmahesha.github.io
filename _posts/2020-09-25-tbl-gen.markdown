@@ -64,7 +64,7 @@ touched upon in the previous section.
 The main idea of LLVM TableGen is as follows:
 
 * Expose few key language constructs which allows LLVM hackers to easly and
-  succinctly describe the programming task at hand, for example, the descriotion
+  succinctly describe the programming task at hand, for example, the description
   of target machine instruction set. This description will be captured in what we
   call a TableGen source file whose name is being suffixed with the extension
   `.td`, say, `XYZ.td`.
