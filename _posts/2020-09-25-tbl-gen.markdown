@@ -49,7 +49,7 @@ LLVM infrastructure projects, but, how does it actually work?, how does it
 actually fullfil its role of automating the stuffs that we discussed above?
 Let's read-on.
 
-# Concepts
+# Basic Concept
 
 If we look into the history of programming, we find that one general way of
 automating some manual, repetitive, boring programming stuff is via what we call
@@ -63,8 +63,8 @@ touched upon in the previous section.
 
 The main idea of LLVM TableGen is as follows:
 
-* Expose few key language constructs which allows LLVM hackers to easly and
-  succinctly describe the programming task at hand, for example, the description
+* Expose few key language constructs which allows LLVM hackers to `easly and
+  succinctly` describe the programming task at hand, for example, the description
   of target machine instruction set. This description will be captured in what we
   call a TableGen source file whose name is being suffixed with the extension
   `.td`, say, `XYZ.td`.
@@ -79,4 +79,48 @@ The main idea of LLVM TableGen is as follows:
   the extension `.inc`.
 * Finally, we can combine above TableGen`erated C++ files within LLVM
   infrastructure and use them as regular C++ source files as if we were handed
-  coded them .
+  coded them.
+
+# Programming Insight
+
+Ok, good to know, but, how does the TableGen language constructs help programmers
+to `easly and succinctly` describe the programming task at hand, say, for example,
+description of a target machine instruction set? Good question, let's discuss it.
+
+Generally speaking, when we want to programmatically represent an instuction of
+a target machine instruction set, we need to capture certain attributes of that
+instructions, like opecode, operand registers, predicates to name few. These
+attributes can be captured in a `record` format (just like a database record). To
+this end, TableGen provides one of the key constructs, called `class`, it is also
+called an `abstract record`. For example, we can hypothetically describe a binary
+instruction as below.
+
+class BinaryInst {
+  // define attr_1; 
+  // define attr_2;
+  ................
+  // define attr_k;
+}
+
+Once an abstract record is defined as above using a `class` construct, then we can
+define specific binary instruction using an another construct called `def`
+construct, which is also called a `concrete record`. For example, we can define
+an hypothetical binary instruction `add` as below.
+
+def Add : BinaryInst {
+  // define add_specific_attr_1; 
+  // define add_specific_attr_2;
+  .............................
+  // define add_specific_attr_m;
+}
+
+Here, the concrete record `Add` inherits the abstract record `BinaryInst` so that
+all the attributes of `BinaryInst` also become attributes of `Add`. Similarly, we
+can also define other binary instructions like `mul`, `sub`, etc as concrete records
+as described above.
+
+The glimpse here is that, we can make use of `class (abstract record)` constuct to
+define an insturction class like binary instruction class, and then we can define
+specific binary instruction using `def (concrete class)` construct.
+
+Let's play with few very very simple TableGen programs.
