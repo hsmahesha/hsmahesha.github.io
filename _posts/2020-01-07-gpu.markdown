@@ -23,6 +23,7 @@ Here you find links to few pages/articles/books/etc which briefly explain about 
   * [Nvidia research][10]
   * [Top Researchers in GPU computing][11]
   * [IBM blogs][12]
+  * [AMD research][13]
 
 [1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
 [2]: /files/GPU/How_GPUs_Work.pptx
@@ -36,3 +37,4 @@ Here you find links to few pages/articles/books/etc which briefly explain about 
 [10]: https://www.nvidia.com/en-us/research/
 [11]: https://www.guide2research.com/scientists/gpu_computing
 [12]: https://www.ibm.com/blogs/research/tag/gpu/
+[13]: https://www.amd.com/en/corporate/research
