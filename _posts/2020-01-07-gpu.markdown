@@ -20,7 +20,8 @@ Here you find links to few pages/articles/books/etc which briefly explain about 
   * [An open source implementation of GPU][8]
 * GPU Computing Researchers
   * [Kayvon Fatahalian][9]
-  * [Nvidia Research][10]
+  * [Nvidia research][10]
+  * [Top Researchers in GPU computing][11]
 
 [1]: https://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/www/lec_slides/lec19.pdf
 [2]: /files/GPU/How_GPUs_Work.pptx
@@ -32,3 +33,4 @@ Here you find links to few pages/articles/books/etc which briefly explain about 
 [8]: /files/GPU/MIAOW-TACO-GPGPU.pdf
 [9]: http://graphics.stanford.edu/~kayvonf/
 [10]: https://www.nvidia.com/en-us/research/
+[11]: https://www.guide2research.com/scientists/gpu_computing
