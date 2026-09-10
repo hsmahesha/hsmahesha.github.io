@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: #222;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.subtitle {
+  margin-top: 0;
+  color: #555;
+}
+
+section {
+  margin-top: 32px;
+}
+
+a {
+  color: #0645ad;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 0.9em;
+  color: #666;
+}
